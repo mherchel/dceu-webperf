@@ -1,4 +1,4 @@
-# dceu-webperf
+# DrupalCon Europe Web Performance Workshop Notes
 Links and notes for DrupalCon Europe Web Performance
 
 
