@@ -19,6 +19,12 @@ Links and notes for DrupalCon Europe Web Performance
 ## Lab demo links (that introduce performance regressions)
 Previews are provided by [Tugboat](https://www.tugboat.qa), which can create automatic "previews" for each PR or git branch.
 
-- Remove resource hints from Lullabot.com - https://no-merge-no-font-preload-l77tf264i5frkoh0qq8p6u1ueusxjtqe.tugboat.qa/
-- Use external fonts with Lullabot.com - https://no-merge-external-fonts-i0gb5vvpukuirpjpckalwtydzbgga4wp.tugboat.qa/
-- Layout thrashing 🤘 on scroll with Lullabot.com - https://no-merge-layout-thrashing-yotskzylkejoavfbttzvlal54k8rfpnx.tugboat.qa/
+- Remove resource hints from Lullabot.com 
+  - Tugboat Demo: https://no-merge-no-font-preload-l77tf264i5frkoh0qq8p6u1ueusxjtqe.tugboat.qa/
+  - WPT Result: 
+- Use external fonts with Lullabot.com
+  - Tugboat Demo: https://no-merge-external-fonts-i0gb5vvpukuirpjpckalwtydzbgga4wp.tugboat.qa/
+  - WPT Result:
+- Layout thrashing 🤘 on scroll with Lullabot.com
+  - Tugboat Demo: https://no-merge-layout-thrashing-yotskzylkejoavfbttzvlal54k8rfpnx.tugboat.qa/
+  - WPT Result:
