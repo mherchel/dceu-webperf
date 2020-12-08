@@ -8,3 +8,10 @@ Links and notes for DrupalCon Europe Web Performance
 
 ## JavaScript
 - https://v8.dev/blog/cost-of-javascript-2019
+
+## Webpagtest
+- https://webpagetest.org/
+- https://andydavies.me/blog/2018/02/19/using-webpagetest-to-measure-the-impact-of-3rd-party-tags/
+- https://github.com/WPO-Foundation/webpagetest-docs/blob/master/user/Scripting.md
+- https://nooshu.github.io/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/
+- https://nooshu.github.io/blog/2019/12/30/how-to-read-a-wpt-connection-view-chart/
