@@ -8,6 +8,7 @@ Links and notes for DrupalCon Europe Web Performance
 
 ## JavaScript
 - https://v8.dev/blog/cost-of-javascript-2019
+- What causes layout / reflow https://gist.github.com/paulirish/5d52fb081b3570c81e3a
 
 ## WebPageTest
 - https://webpagetest.org/
