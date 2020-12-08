@@ -19,6 +19,10 @@ Links and notes for DrupalCon Europe Web Performance
 ## Lab demo links (that introduce performance regressions)
 Previews are provided by [Tugboat](https://www.tugboat.qa), which can create automatic "previews" for each PR or git branch.
 
+- Normal version of Lullabot.com (previewed on Tugboat for parity)
+  - Tugboat Demo: https://master-wraj8bbag8mjudlgmjztkilkuat5nchn.tugboat.qa/
+  - WPT Waterfall: https://webpagetest.org/result/201208_Di7B_19bf8b9bde49d9bec8ec3c3210a2d393/2/details/#waterfall_view_step1
+  - WPT Filmstrip: https://webpagetest.org/video/compare.php?tests=201208_Di7B_19bf8b9bde49d9bec8ec3c3210a2d393-r:1-c:0
 - Remove resource hints from Lullabot.com 
   - Tugboat Demo: https://no-merge-no-font-preload-l77tf264i5frkoh0qq8p6u1ueusxjtqe.tugboat.qa/
   - WPT waterfalll:  https://webpagetest.org/result/201208_DiR9_fdf10f3c6ab2da400c1c110228607374/2/details/#waterfall_view_step1
