@@ -9,7 +9,7 @@ Links and notes for DrupalCon Europe Web Performance
 ## JavaScript
 - https://v8.dev/blog/cost-of-javascript-2019
 
-## Webpagtest
+## WebPageTest
 - https://webpagetest.org/
 - https://andydavies.me/blog/2018/02/19/using-webpagetest-to-measure-the-impact-of-3rd-party-tags/
 - https://github.com/WPO-Foundation/webpagetest-docs/blob/master/user/Scripting.md
