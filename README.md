@@ -15,3 +15,8 @@ Links and notes for DrupalCon Europe Web Performance
 - https://github.com/WPO-Foundation/webpagetest-docs/blob/master/user/Scripting.md
 - https://nooshu.github.io/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart/
 - https://nooshu.github.io/blog/2019/12/30/how-to-read-a-wpt-connection-view-chart/
+
+## Lab demo links (that introduce performance regressions)
+- Remove resource hints from Lullabot.com - https://no-merge-no-font-preload-l77tf264i5frkoh0qq8p6u1ueusxjtqe.tugboat.qa/
+- Use external fonts with Lullabot.com - https://no-merge-external-fonts-i0gb5vvpukuirpjpckalwtydzbgga4wp.tugboat.qa/
+- Layout thrashing 🤘 on scroll with Lullabot.com - https://no-merge-layout-thrashing-yotskzylkejoavfbttzvlal54k8rfpnx.tugboat.qa/
