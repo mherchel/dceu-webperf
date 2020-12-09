@@ -6,6 +6,11 @@ Links and notes for DrupalCon Europe Web Performance
 - Slide deck : https://docs.google.com/presentation/d/1fgAXlpHa4e8iXoxiBlSBruWMNoLR0eB16c0EdyU_Uac/edit?usp=sharing
 - Session node: https://events.drupal.org/europe2020/sessions/front-end-web-performance-clinic-2020-workshop
 
+
+## Presenters
+- Mike Herchel / Senior Front-end Dev at [Lullabot](https://www.lullabot.com/) / https://twitter.com/mikeherchel / https://herchel.com/
+- Ben Morss / Developer Advocate at [Google](https://www.google.com/) / https://twitter.com/benmorss / https://benmorss.com/
+
 ## JavaScript
 - https://v8.dev/blog/cost-of-javascript-2019
 - What causes layout / reflow https://gist.github.com/paulirish/5d52fb081b3570c81e3a
