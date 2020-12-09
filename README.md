@@ -48,5 +48,6 @@ Previews are provided by [Tugboat](https://www.tugboat.qa), which can create aut
 - https://web.dev/lighthouse-performance/ 
 - Conferences
   - https://perfmattersconf.com/ 👈 California
+    - Videos: https://www.youtube.com/user/estellevw/videos
   - https://perfnow.nl/ 👈 Amsterdam
   
