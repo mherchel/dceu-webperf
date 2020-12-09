@@ -35,3 +35,13 @@ Previews are provided by [Tugboat](https://www.tugboat.qa), which can create aut
 - Layout thrashing 🤘 on scroll with Lullabot.com
   - Tugboat Demo: https://no-merge-layout-thrashing-yotskzylkejoavfbttzvlal54k8rfpnx.tugboat.qa/
   - WPT Result:
+  
+  
+  ## Resources
+- https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/
+- http://www.perfplanet.com/ 
+- https://web.dev/lighthouse-performance/ 
+- Conferences
+  - https://perfmattersconf.com/ 👈 California
+  - https://perfnow.nl/ 👈 Amsterdam
+  
