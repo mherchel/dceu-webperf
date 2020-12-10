@@ -47,6 +47,11 @@ Previews are provided by [Tugboat](https://www.tugboat.qa), which can create aut
   - Tugboat Demo: https://no-merge-layout-thrashing-yotskzylkejoavfbttzvlal54k8rfpnx.tugboat.qa/
   - WPT Result:
   
+  ## Drupal issues where you can volunteer
+  - [Provide robust client-side and server-side image optimization tools](drupal.org/i/3177081)
+  - [AVIF support in libgd](https://github.com/libgd/libgd/issues/557)
+  - [Lazy-loading everything that's below the fold](drupal.org/i/3178220)
+  - [Let GDToolkit support WEBP image format](drupal.org/i/2340699)
   
   ## Resources
 - https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/
