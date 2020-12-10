@@ -23,10 +23,10 @@ Links and notes for DrupalCon Europe Web Performance
 - https://nooshu.github.io/blog/2019/12/30/how-to-read-a-wpt-connection-view-chart/
 
 ## Core Web Vitals
-- bit.ly/web-vitals-science
-- web.dev/lcp
-- web.dev/fid
-- web.dev/cls
+- [bit.ly/web-vitals-science](bit.ly/web-vitals-science)
+- [web.dev/lcp](web.dev/lcp)
+- [web.dev/fid](web.dev/fid)
+- [web.dev/cls](web.dev/cls)
 
 ## Lab demo links (that introduce performance regressions)
 Previews are provided by [Tugboat](https://www.tugboat.qa), which can create automatic "previews" for each PR or git branch.
